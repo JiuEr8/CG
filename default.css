@@ -418,7 +418,7 @@
 
 	.wrapper
 	{
-		overflow: hidden;
+		overflow: auto;
 		padding: 5em 0em 5em 0em;
 		background: #FFF;
 	}
@@ -430,7 +430,7 @@
 
 	#wrapper2
 	{
-		overflow: hidden;
+		overflow: auto;
 		background: #F3F3F3;
 		padding: 5em 0em;
 	}
@@ -441,7 +441,7 @@
 
 	#welcome
 	{
-		overflow: hidden;
+		overflow: auto;
 		width: 1000px;
 		padding: 8em 100px 0em 100px;
 		text-align: center;
@@ -539,7 +539,7 @@
 
 	#copyright
 	{
-		overflow: hidden;
+		overflow: auto;
 		padding: 5em 0em;
 		border-top: 1px solid rgba(255,255,255,0.08);
 		text-align: center;
@@ -568,7 +568,7 @@
 
 	#newsletter
 	{
-		overflow: hidden;
+		overflow: auto;
 		padding: 8em 0em;
 		background: #EDEDED;
 		text-align: center;
@@ -644,7 +644,7 @@
 
 	#three-column
 	{
-		overflow: hidden;
+		overflow: auto;
 		text-align: center;
 		color: #FFF;
 	}
