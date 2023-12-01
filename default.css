@@ -422,6 +422,7 @@
 		overflow: auto;
 		padding: 5em 0em 5em 0em;
 		background: #FFF;
+		
 	}
 
 	#wrapper1
@@ -474,6 +475,8 @@
 		overflow: auto;
 		background: #F3F3F3;
 		padding: 5em 0em;
+		margin: 30px;
+		border-radius: 16px;
 	}
 
 	#page
@@ -648,6 +651,7 @@
 		overflow: auto;
 		text-align: center;
 		color: #FFF;
+		border-radius: 16px;
 	}
 	
 	#three-column h2
@@ -858,5 +862,21 @@
  }
 
  .图片{
-	text-align: center
+	text-align: center;
+	background-color:rgba(99, 99, 99, 0.132);
+	margin:30px;
+	border-top: 16px;
+	border-radius: 30px;
+	
+	
+ }
+
+ .图片1 {
+ 	text-align: center;
+ 	background-color: rgba(99, 99, 99, 0.132);
+ 	margin: 30px;
+ 	border-top: 30px;
+ 	border-radius: 16px;
+ 	box-shadow: 0 0 150px rgba(31, 236, 219, 0.242);
+
  }
